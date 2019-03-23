@@ -1,7 +1,7 @@
 import subprocess
-app = "gophersat-1.1.exe"
-fichier_licorne = "licorne.cnf"
-fichier_graphie = "graphie3.cnf"
+app = "TP2\gophersat-1.1.exe"
+fichier_licorne = "TP2\licorne.cnf"
+fichier_graphie = "TP2\graphie3.cnf"
 
 def interpretation(list1, list2):
     return dict(zip(list1, list2))
